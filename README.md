@@ -1,7 +1,7 @@
 # Scorecards
-Hello, folks! These are my scorecards for mostly the Baltimore Orioles but, on occasion, other games. Before you ask, I use the [iScore app](https://iscoresports.com/) on my iPad Air (4th gen).
+Hello, folks! These are my scorecards for mainly the [Baltimore Orioles](https://www.mlb.com/orioles) but, on occasion, other games. Before you ask, I use the [iScore app](https://iscoresports.com/) on my iPad Air (4th gen).
 
-I claim only 95% or so accuracy. Sometimes I miss a foul or an error ruling, etc.
+I am not a professional scorer, so I claim only about 95% accuracy. Occasionally I miss a foul or an error ruling, etc., but all in all, they're pretty accurate.
 
 ### May 2022
 - [2022-05-28 Orioles at Red Sox game 2](https://github.com/baltimoretom/scorecards/blob/main/2022-05-28%20Orioles%20at%20Red%20Sox%20game%202.pdf) 
