@@ -4,7 +4,7 @@ Hello, folks! These are my scorecards for mainly the [Baltimore Orioles](https:/
 I am not a professional scorer, so I claim only about 95% accuracy. Occasionally I miss a foul or an error ruling, etc., but all in all, they're pretty accurate.
 
 ### May 2022
-- L 0-10 [2022-05-31 Mariners at Orioles] (https://github.com/baltimoretom/scorecards/blob/main/2022-05-31%20Mariners%20at%20Orioles.pdf)
+- L 0-10 [2022-05-31 Mariners at Orioles](https://github.com/baltimoretom/scorecards/blob/main/2022-05-31%20Mariners%20at%20Orioles.pdf)
 - W 10-0 [2022-05-30 Orioles at Red Sox](https://github.com/baltimoretom/scorecards/blob/main/2022-05-30%20Orioles%20at%20Red%20Sox.pdf) 
 - W 4-2 [2022-05-28 Orioles at Red Sox game 2](https://github.com/baltimoretom/scorecards/blob/main/2022-05-28%20Orioles%20at%20Red%20Sox%20game%202.pdf) 
 - L 3-5 [2022-05-28 Orioles at Red Sox game 1](https://github.com/baltimoretom/scorecards/blob/main/2022-05-28%20Orioles%20at%20Red%20Sox%20game%201.pdf)  
