@@ -14,11 +14,11 @@ I am not a professional scorer, so I claim only about 95% accuracy. Occasionally
 - [2022-05-01 Red Sox at Orioles](https://github.com/baltimoretom/scorecards/blob/main/2022-05-01%20Red%20Sox%20at%20Orioles.pdf) 
 
 ### April 2022
-- [2022-04-30 Red Sox at Orioles](https://github.com/baltimoretom/scorecards/blob/main/2022-04-30%20Red%20Sox%20at%20Orioles.pdf)
-- [2022-04-29 Red Sox at Orioles](https://github.com/baltimoretom/scorecards/blob/main/2022-04-29%20Red%20Sox%20at%20Orioles.pdf)
-- [2022-04-27 Orioles at Yankees](https://github.com/baltimoretom/scorecards/blob/main/2022-04-27%20Orioles%20at%20Yankees.pdf)
-- [2022-04-24 Orioles at Angels](https://github.com/baltimoretom/scorecards/blob/main/2022-04-24%20Orioles%20at%20Angels.pdf) 
-- [2022-04-23 Orioles at Angels](https://github.com/baltimoretom/scorecards/blob/main/2022-04-23%20Orioles%20at%20Angels.pdf)
+- W 2-1 [2022-04-30 Red Sox at Orioles](https://github.com/baltimoretom/scorecards/blob/main/2022-04-30%20Red%20Sox%20at%20Orioles.pdf)
+- L 1-3 [2022-04-29 Red Sox at Orioles](https://github.com/baltimoretom/scorecards/blob/main/2022-04-29%20Red%20Sox%20at%20Orioles.pdf)
+- L 2-5 [2022-04-27 Orioles at Yankees](https://github.com/baltimoretom/scorecards/blob/main/2022-04-27%20Orioles%20at%20Yankees.pdf)
+- L 6-7 [2022-04-24 Orioles at Angels](https://github.com/baltimoretom/scorecards/blob/main/2022-04-24%20Orioles%20at%20Angels.pdf) 
+- W 5-4 [2022-04-23 Orioles at Angels](https://github.com/baltimoretom/scorecards/blob/main/2022-04-23%20Orioles%20at%20Angels.pdf)
 
 Follow me on Twitter [![Twitter][1.2]][1]
 
