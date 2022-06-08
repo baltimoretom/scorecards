@@ -3,7 +3,7 @@ Hello, folks! These are my scorecards for mainly the [Baltimore Orioles](https:/
 
 I am not a professional scorer, so I claim only about 95% accuracy. Occasionally I miss a foul or an error ruling, etc., but all in all, they're pretty accurate.
 ### June 2022
-
+- W 9-3 [2022-06-06 Cubs at Orioles](https://github.com/baltimoretom/scorecards/blob/main/2022-06-07%20Cubs%20at%20Orioles.pdf)
 
 ### May 2022
 - L 0-10 [2022-05-31 Mariners at Orioles](https://github.com/baltimoretom/scorecards/blob/main/2022-05-31%20Mariners%20at%20Orioles.pdf)
